@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or its derived data, cite the archived release."
+title: "Historical variability in tropical-cyclone coastal proximity: code and derived data"
+type: software
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: "Salomón-Guzmán"
+    given-names: "Elí Gaiska"
+    affiliation: "Postgraduate Program in Statistics and Data Science, Colegio de Postgraduados, Campus Montecillo, Montecillo, Texcoco, State of Mexico 56264, Mexico"
+    email: "salomon.eli@colpos.mx"
+    orcid: "https://orcid.org/0000-0002-3533-3900"
+  - family-names: "Vaquera Huerta"
+    given-names: "Humberto"
+    affiliation: "Postgraduate Program in Statistics and Data Science, Colegio de Postgraduados, Campus Montecillo, Montecillo, Texcoco, State of Mexico 56264, Mexico"
+    email: "hvaquera@colpos.mx"
+    orcid: "https://orcid.org/0000-0002-2805-804X"
+keywords:
+  - IBTrACS
+  - tropical cyclones
+  - coastal proximity
+  - North Atlantic
+  - Eastern North Pacific
+repository-code: "https://github.com/GaiskaSalomon/tcrr-coastal-proximity"

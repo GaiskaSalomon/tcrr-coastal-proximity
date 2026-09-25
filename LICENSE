@@ -1,0 +1,8 @@
+This repository uses a dual-license structure.
+
+Source code in `scripts/` is licensed under the MIT License in
+`LICENSES/MIT.txt`. Manuscript text, documentation and original figures are
+licensed under CC BY 4.0 in `LICENSES/CC-BY-4.0.txt`. Third-party source data
+are not distributed and are not relicensed.
+
+Copyright (c) 2026 Elí Gaiska Salomón-Guzmán and Humberto Vaquera Huerta.

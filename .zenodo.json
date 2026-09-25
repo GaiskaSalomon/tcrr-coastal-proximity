@@ -1,0 +1,13 @@
+{
+  "title": "Historical variability in tropical-cyclone coastal proximity: code and derived data",
+  "description": "Standalone reproducibility package for an IBTrACS-only analysis of tropical-cyclone coastal proximity in the North Atlantic and Eastern North Pacific, 1949–2025. It includes manuscript and supplement source, processing and analysis code, frozen derived panels, outputs and checksums. Coastal proximity is a hazard metric and does not include population, assets or damages. Raw IBTrACS and Natural Earth files are not redistributed.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "creators": [
+    {"name": "Salomón-Guzmán, Elí Gaiska", "affiliation": "Postgraduate Program in Statistics and Data Science, Colegio de Postgraduados, Campus Montecillo, Montecillo, Texcoco, State of Mexico 56264, Mexico", "orcid": "0000-0002-3533-3900"},
+    {"name": "Vaquera Huerta, Humberto", "affiliation": "Postgraduate Program in Statistics and Data Science, Colegio de Postgraduados, Campus Montecillo, Montecillo, Texcoco, State of Mexico 56264, Mexico", "orcid": "0000-0002-2805-804X"}
+  ],
+  "keywords": ["IBTrACS", "tropical cyclones", "coastal proximity", "North Atlantic", "Eastern North Pacific", "hazard climatology"]
+}
